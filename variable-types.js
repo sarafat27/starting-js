@@ -1,0 +1,10 @@
+var tshirtprice = 200;
+// console.log(typeof tshirtprice);
+var tshirtprice2 = '200';
+// console.log(typeof tshirtprice2);
+var isRaining = true;
+// console.log(typeof isRaining);
+var isGood;
+// console.log(typeof isGood);
+var today = new Date();
+console.log(typeof today);

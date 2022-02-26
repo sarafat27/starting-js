@@ -1,0 +1,12 @@
+var firstName = 'arafat';
+var lastName = 'sunny';
+var fullName = firstName + ' ' + lastName;
+// console.log(fullName);
+var OnionPrice = '42.66';
+var eggPrice = '38.65';
+// var OnionPricenumber = parseInt(OnionPrice);
+// var eggPricenumber = parseInt(eggPrice);
+var OnionPricenumber = parseFloat(OnionPrice);
+var eggPricenumber = parseFloat(eggPrice);
+var price = OnionPricenumber + eggPricenumber;
+console.log(price);
